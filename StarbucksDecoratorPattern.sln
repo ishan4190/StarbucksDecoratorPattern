@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarbucksDecoratorPattern", "StarbucksDecoratorPattern\StarbucksDecoratorPattern.csproj", "{4D928433-8CBC-4F4A-BC4C-9673B85E3C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{543D3EC9-FB87-438A-97C2-4CA64008D304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D928433-8CBC-4F4A-BC4C-9673B85E3C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D928433-8CBC-4F4A-BC4C-9673B85E3C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D928433-8CBC-4F4A-BC4C-9673B85E3C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D928433-8CBC-4F4A-BC4C-9673B85E3C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543D3EC9-FB87-438A-97C2-4CA64008D304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543D3EC9-FB87-438A-97C2-4CA64008D304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543D3EC9-FB87-438A-97C2-4CA64008D304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543D3EC9-FB87-438A-97C2-4CA64008D304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9096F52-6DB3-4DAB-96ED-F313ADDBEAA6}
+	EndGlobalSection
+EndGlobal
